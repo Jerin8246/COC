@@ -1,0 +1,27 @@
+.container-fluid {
+    padding-top: 70px;
+  }
+  
+  .navbar {
+    margin-bottom: 30px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+  }
+  
+  .list-group {
+    margin-top: 20px;
+  }
+  
+  .alert {
+    margin-top: 20px;
+  }
